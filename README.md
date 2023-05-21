@@ -179,7 +179,7 @@ For example:
 
 > | Value   |  Title       |
 > |---------|--------------|
-> | 0       | <Unselected> |
+> | 0       | (Unselected) |
 > | 1       | Never        |
 > | 2       | Rarely       |
 > | 3       | Sometimes    |
